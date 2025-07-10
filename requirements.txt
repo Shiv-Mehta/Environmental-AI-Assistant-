@@ -1,0 +1,11 @@
+gradio
+transformers
+torch
+spacy
+networkx
+matplotlib
+diffusers
+sentencepiece
+accelerate
+ftfy
+huggingface_hub
